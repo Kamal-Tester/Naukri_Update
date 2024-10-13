@@ -6,12 +6,7 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
-import org.openqa.selenium.chrome.ChromeOptions;
-import org.testng.annotations.Parameters;
-import org.testng.annotations.Test;
-import org.testng.annotations.AfterTest;
 
-import org.testng.annotations.Test;
 public class Naukri {
 	public static WebDriver driver;
 	public static void main(String a[]) throws InterruptedException {
