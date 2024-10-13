@@ -9,8 +9,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.chrome.ChromeOptions;
 import org.testng.annotations.Parameters;
 import org.testng.annotations.Test;
+import org.testng.annotations.AfterTest;
 
-import io.github.bonigarcia.wdm.WebDriverManager;
 import org.testng.annotations.Test;
 public class Naukri {
 	public static WebDriver driver;
