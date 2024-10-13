@@ -80,6 +80,8 @@ public class Naukri {
 		// -----End first tab----
 
 		driver.quit();
+		
+		System.out.println("Update is done");
 	}
 
 }
