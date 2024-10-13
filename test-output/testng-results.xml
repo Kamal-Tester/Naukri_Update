@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-10-13T23:27:10 IST" name="Default suite" finished-at="2024-10-13T23:27:23 IST" duration-ms="12819">
+  <suite started-at="2024-10-14T00:21:42 IST" name="Suite1" finished-at="2024-10-14T00:21:53 IST" duration-ms="10638">
     <groups>
     </groups>
-    <test started-at="2024-10-13T23:27:10 IST" name="Default test" finished-at="2024-10-13T23:27:23 IST" duration-ms="12819">
+    <test started-at="2024-10-14T00:21:42 IST" name="TestGroup1" finished-at="2024-10-14T00:21:53 IST" duration-ms="10638">
       <class name="Naukri_refresh.Naukri_refresh.Naukri">
-        <test-method signature="ma()[pri:0, instance:Naukri_refresh.Naukri_refresh.Naukri@3ed242a4]" started-at="2024-10-13T23:27:10 IST" name="ma" finished-at="2024-10-13T23:27:23 IST" duration-ms="12661" status="PASS">
+        <test-method signature="Naukri()[pri:0, instance:Naukri_refresh.Naukri_refresh.Naukri@2ceb80a1]" started-at="2024-10-14T00:21:42 IST" name="Naukri" finished-at="2024-10-14T00:21:53 IST" duration-ms="10512" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- ma -->
+        </test-method> <!-- Naukri -->
       </class> <!-- Naukri_refresh.Naukri_refresh.Naukri -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- TestGroup1 -->
+  </suite> <!-- Suite1 -->
 </testng-results>

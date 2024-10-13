@@ -3,11 +3,12 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Naukri_refresh.Naukri_refresh.Naukri">
+      <class name="Naukri_refresh.Naukri_refresh.Browser">
         <methods>
-          <include name="ma"/>
+          <include name="browser"/>
+          <include name="second"/>
         </methods>
-      </class> <!-- Naukri_refresh.Naukri_refresh.Naukri -->
+      </class> <!-- Naukri_refresh.Naukri_refresh.Browser -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -2,15 +2,10 @@
 <suite name="Suite1">
     <test name="TestGroup1">
         <classes>
-            <class name="Naukri_refresh.Naukri_refresh.Browser">
+            <class name="Naukri_refresh.Naukri_refresh.Naukri">
                 <methods>
-                    <include name="testMethod1"/>
-                    <include name="testMethod3"/>
-                    <include name="testMethod5"/>
-                    <include name="testMethod7"/>
-                    <include name="testMethod9"/>
-                    <include name="browser"/>
-                     <include name="second"/>
+                   
+                     <include name="Naukri"/>
                 </methods>
             </class>
         </classes>
