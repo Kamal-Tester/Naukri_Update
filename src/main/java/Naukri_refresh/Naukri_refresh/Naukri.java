@@ -14,8 +14,7 @@ import org.testng.annotations.AfterTest;
 import org.testng.annotations.Test;
 public class Naukri {
 	public static WebDriver driver;
-@Test
-	public static void Naukri() throws InterruptedException {
+	public static void main(String a[]) throws InterruptedException {
 
 		
 
